@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# auto-deploy-ruby
+>>>>>>> c7ae6b9b9b6b4404c683d4416f66c95f01a403fb
